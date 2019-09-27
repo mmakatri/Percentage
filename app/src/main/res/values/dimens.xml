@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_8dp">8dp</dimen>
+
+    <dimen name="clear_image_button_width">48dp</dimen>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<PreferenceCategory android:title="@string/general_settings">-->
+
+        <!--<CheckBoxPreference-->
+            <!--android:defaultValue="false"-->
+            <!--android:key="@string/settings_save_last_values_key"-->
+            <!--android:summary="@string/settings_save_last_values_summary"-->
+            <!--android:title="@string/settings_save_last_values_label" />-->
+    <!--</PreferenceCategory>-->
+
+    <PreferenceCategory android:title="@string/percentage_settings">
+
+
+
+        <EditTextPreference
+            android:defaultValue="@string/settings_yemen_mobile_percentage_default"
+            android:inputType="numberDecimal"
+            android:key="@string/settings_yemen_mobile_percentage_value_key"
+            android:selectAllOnFocus="true"
+            android:title="@string/settings_yemen_mobile_percentage_label" />
+
+        <!--<CheckBoxPreference-->
+            <!--android:defaultValue="false"-->
+            <!--android:key="@string/settings_show_thumbnail_key"-->
+            <!--android:summary="@string/settings_show_thumbnail_summary"-->
+            <!--android:title="@string/settings_show_thumbnail_label" />-->
+
+        <!--<CheckBoxPreference-->
+            <!--android:defaultValue="false"-->
+            <!--android:key="@string/settings_show_trail_text_key"-->
+            <!--android:summary="@string/settings_show_trail_text_summary"-->
+            <!--android:title="@string/settings_show_trail_text_label" />-->
+    </PreferenceCategory>
+</PreferenceScreen>

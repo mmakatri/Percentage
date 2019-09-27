@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Percentage</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="value_plus_percentage">Value Plus Percentage</string>
+    <string name="value_minus_percentage">Value Minus Percentage</string>
+    <string name="percentage_value">Percentage Value</string>
+    <string name="settings">Settings</string>
+    <string name="clear_button">Clear Button</string>
+
+    <string name="settings_yemen_mobile_percentage_label">Yemen Mobile Percentage</string>
+    <string name="settings_yemen_mobile_percentage_value_key"
+        translatable="false">yemen_mobile_percentage_key</string>
+    <string name="settings_yemen_mobile_percentage_default" translatable="false">10</string>
+
+    <string name="activity_title_settings">Settings</string>
+
+    <string name="percentage_settings">General Percentage Values</string>
+
+    <string name="settings_out_of_limits">The number should be from 0 to 100</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="percentage_update">Update Percentage</string>
+    <string name="enter_your_percentage">Enter your percentage value</string>
+    <string name="write_any_thing">Please enter your percentage value</string>
+</resources>
