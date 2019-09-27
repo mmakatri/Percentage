@@ -84,7 +84,7 @@ public class SettingsActivity extends AppCompatActivity {
             onPreferenceChange(preference, preferenceString);
         }
     }
-
+//Test
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
 

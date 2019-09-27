@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.text_value_plus_percentage)
     TextView textValuePlusPercentage;
 
-    String y_m_percentage = "";
+    String y_m_percentage = "0";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
